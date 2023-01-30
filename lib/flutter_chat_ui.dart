@@ -1,7 +1,13 @@
 library flutter_chat_ui;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
+import 'package:flutter/src/widgets/container.dart';
+import 'package:flutter/src/widgets/framework.dart';
+
+class FirstChatWidget extends StatelessWidget {
+  const FirstChatWidget({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return Container();
+  }
 }

@@ -1,7 +1,7 @@
 name: flutter_chat_ui
-description: A new Flutter package project.
+description: A  Flutter package package containing chat ui widgets.
 version: 0.0.1
-homepage:
+homepage: https://github.com/thanoofayoob/flutter-chat-ui.git
 
 environment:
   sdk: '>=2.18.6 <3.0.0'
